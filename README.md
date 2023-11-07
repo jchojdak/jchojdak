@@ -1,9 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome!+%F0%9F%91%8B;My+name+is+Jakub+Chojdak;I'm+Java+Developer)](https://git.io/typing-svg)
+<div align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome!+%F0%9F%91%8B;My+name+is+Jakub+Chojdak;I'm+Java+Developer" alt="Welcome!" /></a>
+</div>
 
-# 🙍 About me:
+<h1>🙍 About me:</h1>
 TODO
 
-# 💻 Tech Stack:
+<h1>💻 Tech Stack:</h1>
 <div>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
