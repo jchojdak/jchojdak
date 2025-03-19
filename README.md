@@ -36,3 +36,6 @@ I am currently studying a **master's degree** in **Computer Science** with a spe
 
 # 🤝 Let’s connect!
 I’m always open to collaborating on exciting projects, learning new things, and sharing knowledge with the developer and DevOps community. Feel free to explore my repositories or contact me.
+
+* 📧 Mail: [jchojdak@gmail.com](mailto:jchojdak@gmail.com)
+* 🌐 LinkedIn: [@Jakub Chojdak](https://www.linkedin.com/in/jakub-chojdak)
