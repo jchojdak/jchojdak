@@ -1,12 +1,13 @@
 # 📌 About me
 Hi there! 👋 I'm a Java Developer with a strong passion for writing clean, efficient, and scalable code. I specialize in backend development and enjoy working with modern technologies to build solid and maintainable applications.
 I graduated from Lublin University of Technology with an **engineer's degree** in **Computer Science**, specializing in `Software Engineering`.
-I am currently studying a **master's degree** in **Computer Science** with a specialization in `Applied Data Science and AI` at Vistula University.
+I am currently studying a **master's degree** in **Computer Science** with a specialization in `Applied Data Science and AI` at Vistula University (Warsaw).
 
-# 💻🔨 Technology stack:
+# 💻🔨 Technology stack
 <div>
 	<code><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" title="SQL"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ"/></code>
 	<code><img width="40" src="https://github.com/user-attachments/assets/9f931c45-0585-4db0-86a7-25ce3f5bef25" alt="PyCharm" title="PyCharm"/></code>
@@ -32,10 +33,17 @@ I am currently studying a **master's degree** in **Computer Science** with a spe
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" alt="Prometheus" title="Prometheus"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rabbitmq.png" alt="RabbitMQ" title="RabbitMQ"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" alt="scikit-learn" title="scikit-learn"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" title="Bash"/></code>
+
 </div>
 
-# 🤝 Let’s connect!
-I’m always open to collaborating on exciting projects, learning new things, and sharing knowledge with the developer and DevOps community. Feel free to explore my repositories or contact me.
+# 🤝 Let’s connect
+I’m always open to collaborating on exciting projects, learning new things, and sharing knowledge with the developer and devops community. Feel free to explore my repositories or contact me.
 
 * 📧 Mail: [jchojdak@gmail.com](mailto:jchojdak@gmail.com)
 * 🌐 LinkedIn: [@Jakub Chojdak](https://www.linkedin.com/in/jakub-chojdak)
