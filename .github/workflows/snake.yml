@@ -31,6 +31,6 @@ jobs:
         with:
           target_branch: snake
           build_dir: dist
-          commit_message: "[snake-bot] Update GitHub Snake $(date -u +'%Y-%m-%d %H:%M:%S')"
+          commit_message: "[snake-bot] Update GitHub Snake ${{ steps.date.outputs.date }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
