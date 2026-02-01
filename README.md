@@ -46,3 +46,9 @@ I’m always open to collaborating on exciting projects, learning new things, an
 
 * 📧 Mail: [jchojdak@gmail.com](mailto:jchojdak@gmail.com)
 * 🌐 LinkedIn: [@Jakub Chojdak](https://www.linkedin.com/in/jakub-chojdak)
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jchojdak/jchojdak/snake/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jchojdak/jchojdak/snake/github-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/jchojdak/jchojdak/snake/github-snake.svg">
+</picture>
