@@ -26,6 +26,10 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      - name: Get current date
+        id: date
+        run: echo "date=$(date -u +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_OUTPUT
+
       - name: Push to the snake branch
         uses: crazy-max/ghaction-github-pages@v4.2.0
         with:
