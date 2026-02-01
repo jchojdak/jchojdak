@@ -1,0 +1,36 @@
+name: GitHub Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  generate-snake:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to the snake branch
+        uses: crazy-max/ghaction-github-pages@v4.2.0
+        with:
+          target_branch: snake
+          build_dir: dist
+          commit_message: "[snake-bot] Update GitHub Snake $(date -u +'%Y-%m-%d %H:%M:%S')"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
