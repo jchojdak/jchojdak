@@ -1,9 +1,9 @@
-# 📌 About me
-Hi there! 👋 I'm a Java Developer with a strong passion for writing clean, efficient, and scalable code. I specialize in backend development and enjoy working with modern technologies to build solid and maintainable applications.
+## About me
+I'm a Java Developer with a strong passion for writing clean, efficient, and scalable code. I specialize in backend development and enjoy working with modern technologies to build solid and maintainable applications.
 I graduated from Lublin University of Technology with an **engineer's degree** in **Computer Science**, specializing in `Software Engineering`.
 I am currently studying a **master's degree** in **Computer Science** with a specialization in `Applied Data Science and AI` at Vistula University (Warsaw).
 
-# 💻🔨 Technology stack
+## Technology stack
 <div>
 	<code><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
@@ -39,10 +39,9 @@ I am currently studying a **master's degree** in **Computer Science** with a spe
 	<code><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" title="Bash"/></code>
-
 </div>
 
-# 🤝 Let’s connect
+## Let’s connect
 I’m always open to collaborating on exciting projects, learning new things, and sharing knowledge with the developer and devops community. Feel free to explore my repositories or contact me.
 
 * 📧 Mail: [jchojdak@gmail.com](mailto:jchojdak@gmail.com)
