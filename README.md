@@ -1,19 +1,8 @@
-## About me
-I'm a Java Developer with a strong passion for writing clean, efficient, and scalable code. I specialize in backend development and enjoy working with modern technologies to build solid and maintainable applications.
-I graduated from Lublin University of Technology with an **engineer's degree** in **Computer Science**, specializing in `Software Engineering`.
-I am currently studying a **master's degree** in **Computer Science** with a specialization in `Applied Data Science and AI` at Vistula University (Warsaw).
-
 ## Technology stack
 <div>
 	<code><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" title="SQL"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ"/></code>
-	<code><img width="40" src="https://github.com/user-attachments/assets/9f931c45-0585-4db0-86a7-25ce3f5bef25" alt="PyCharm" title="PyCharm"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></code>
 	<code><img width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" title="Spring Boot"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" alt="Lombok" title="Lombok"/></code>
@@ -39,11 +28,15 @@ I am currently studying a **master's degree** in **Computer Science** with a spe
 	<code><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" title="Bash"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ"/></code>
+	<code><img width="40" src="https://github.com/user-attachments/assets/9f931c45-0585-4db0-86a7-25ce3f5bef25" alt="PyCharm" title="PyCharm"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman"/></code>
 </div>
 
 ## Let’s connect
-I’m always open to collaborating on exciting projects, learning new things, and sharing knowledge with the developer and devops community. Feel free to explore my repositories or contact me.
-
 * 📧 Mail: [jchojdak@gmail.com](mailto:jchojdak@gmail.com)
 * 🌐 LinkedIn: [@Jakub Chojdak](https://www.linkedin.com/in/jakub-chojdak)
 
